@@ -1,0 +1,10 @@
+*.py
+
+.vs/**
+
+bin/Debug/**
+obj/Debug/**
+
+*.dll
+*.pdb
+*.json
